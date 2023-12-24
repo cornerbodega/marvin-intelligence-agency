@@ -12,28 +12,92 @@ Marvin Intelligence Agency is an innovative web application designed to enhance 
 
 ## Getting Started
 
+To get started with the Marvin Intelligence Agency, follow these setup steps.
+
 ## Prerequisites
+
+Ensure you have the following installed:
+
+- Node.js
+- npm or yarn
+- Git
 
 ## [1/4] Installation: Clone Repo
 
+`bash
+git clone https://github.com/your-username/marvin-intelligence-agency.git
+cd marvin-intelligence-agency
+`
+
 ## [2/4] Installation: Install Dependencies
+
+Navigate to the client and server directories in separate terminal windows and run:
+
+`bash
+
+# In the /client directory
+
+npm install
+
+# In the /server directory
+
+npm install
+`
 
 ## [3/4] Installation: Database Setup
 
-### [3.1] Create a new project in Supabase
+### [3.1] Create a New Project in Supabase
+
+- Go to Supabase and create a new project.
+- Note down the Supabase URL and anon key.
 
 ### [3.2] Paste the Table Setup SQL into Supabase
 
-### [3.3] Paste the Table Setup SQL into Supabase
+- Use the provided SQL script in /sql/setup.sql to set up your database tables in Supabase.
 
 ## [4/4] Installation: Configure API Keys
 
-### [4.1]
+Fill out the environment variables in the .env files for both client and server. Remove .example from the file names.
+
+### Server .env Configuration
+
+- **AUTH0**: Obtain your Auth0 credentials (Secret, Base URL, Issuer Base URL, Client ID, Client Secret) from your Auth0 dashboard.
+- **SUPABASE**: Use the URL and keys from your Supabase project.
+- **FIREBASE**: Set up your Firebase project and use the provided email and password.
+- **OPENAI**: Get your API key from OpenAI.
+
+### Client .env Configuration
+
+- Similar to the server, fill in the Auth0 and Supabase details.
+- **NEXT_PUBLIC_SERVER_UID**: This is the UID for your server, which you can set as any unique identifier.
+- **GOOGLE_APPLICATION_CREDENTIALS_BASE64**: This is the base64-encoded Google Cloud service account file. Use a command line tool to base64 encode your Google Cloud credentials JSON.
 
 ## Running Locally
 
+To run the application locally:
+
+`bash
+
+# Start the client
+
+cd client
+npm start
+
+# In another terminal, start the server
+
+cd server
+npm start
+`
+
 ## Contributing
+
+Please read CONTRIBUTING.md for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## License
 
+This project is licensed under the MIT License - see the LICENSE.md file for details.
+
 ## Acknowledgements
+
+Special thanks to OpenAI for the inspiration and resources that made this project possible.
+[Any other acknowledgments or credits you would like to include.]
