@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "missions-server",
+  "private_key_id": "f90599a2c37974b84e81800aa8b87177fd863a84",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDTXJRtvfahHefU\ni81umLw+uXyh4wpUv2BarhHUT5zO20FxPyd846k09uLpcy+0vym5yAadSZayQMRj\n42frLu7JnUkyzCnWxa6wl4GwwN1C9SQnPS6z66owYLBt2W+hSe04CIHt4G4oewiO\nHW8B7kEUYdi2baw7qjrBhtdkcovJos85P5h9IzQ7YknTj8GLUSsKDlnYD4xeNvx7\nJCAMJLVTpUz9N3QrkdFECs40rodw54EP7D4X0YGyW4Qeryr9lpEe/PJv58ebJGyk\n+w4qSaGr4yVto8nInxXeBkkR8aINzDnXMJVrAP+3p79Iy8pyrOl2f65XZZ4cOukp\nYw3oc96dAgMBAAECggEAFvMaesABo4Tnw0Ba0gNrjTP+wGUynfkZsT7tWKw8Tomo\nFW/SDdF6cfHMuaR0LaAEG9QIQ9PVtQ0rRd1PT04NR374j7dzY4qbaTlKL7MBU1/i\nyQ/vnkGcfRxCi+rsIAsy4r6pvPZ9f4+8YhH4F7GTB2+IZGaMKP5W2uSVRqbZXs9I\nDpRf0qFlB13ihiEQI6zRZWryrkDfRmxefrMsVtnr04dJx1UMsp6PblJMjqmUw5tC\nn+o/QHWTpAPDn8N6Awjo+jIjdMlk/Rw52GDW23577HbC8CVP1SyscyP7k55OuBtj\nk9axQuKAMB40dpWVJiIyLEaFb5oyKeSpp3KgGLJOUQKBgQD++PmIdg2XDc2NN4vV\nQNM5EvSIL2/v8j2INkN1WQaOcdoqgNz20PugbVCLwRCauce/kSBoXfjH3l/F0P0q\nsT/4bTz4VBLQXgho5jDaRUxDb4sCpoe6qRjeyQHz0Dkwm8G7eigC5PPsqHPPvEqQ\nanDidjh9gEgEIRBfmh7T6lnAFwKBgQDUNp3mVQj2g2KXVqt8dAuBWqsC+Tli4v5Q\nU8iGps4L65xR4PuDjbLA2h50fp7PB2uC7ZGVvI0Hw+NLDkRtt3B/izda/ihdUX/r\nZ30+Pk3UapV1j2kw2bbLmD04WNIeCjZlEIpU4JLKuhI98lAqgEWDh87T8p0tntLq\n+gfyyTQzawKBgQCMCvwjs5OrT+2CjuvC6aQaSQr+ce+tfwPE+Oj8XzV2r5oAll7H\nQemzJ9eBqz0PftLzqSZ/rH2kacN4x10GQey86mL+kk7zG3LLCwPyHvXQZEeZ4RXT\ntGTwmL71x3xh8mrqKiIn1NEVP0C87NKXl58BA6XraLYlbnOrzt73zlQVaQKBgAZF\nqvsQzlgC4Boa/KyL/X8QP/exiAmtLdkP8OBR88sUZqVg4e4sdPkQOVA2Idl6nanb\n/a6QSRbOqlwgitM3VcLfSX6N/oFrlD1P7Lq3OrOphstXtsMz3Bw+XqjYrzUmFh98\nkqoZjR0izME59TacXfGaRPmstQqRJCi/xRZe7gULAoGBAIIcd/T1gqeW6tvU/SHL\nMLOqO9JJAETHLiqxV8GwWnEhG5636HUnSovq4Ti065aA5WnGBIBc1WEGclzae9rm\nSHJUOLQCrxDEleFppSZSp66x040RdDSsAjcs2S6VMJyH9yqULhH200PM6FRMjjsN\no/tQodxD8UhjQhEVq+aETvhu\n-----END PRIVATE KEY-----\n",
+  "client_email": "upload-intelligence-image-to-g@missions-server.iam.gserviceaccount.com",
+  "client_id": "106554678468677890694",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/upload-intelligence-image-to-g%40missions-server.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

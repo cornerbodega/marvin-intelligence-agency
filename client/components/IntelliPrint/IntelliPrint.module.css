@@ -1,0 +1,45 @@
+/* IntelliPrint.css */
+.intelli-report {
+    padding: 20px;
+    margin-bottom: 40px;
+  }
+  
+  .intelli-report-image {
+    max-width: 50%;
+    max-height: 300px; /* Adjust this value as needed */
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+  }
+  
+  .intelli-report-content {
+    font-size: 1.2em;
+    line-height: 1.6;
+  }
+  
+  .print-button {
+    margin-bottom: 20px;
+    padding: 10px 20px;
+    font-size: 1em;
+  }
+  
+  @media print {
+    .intelli-report {
+      page-break-inside: avoid;
+    }
+  
+    .intelli-report-content {
+      font-size: 12pt;
+    }
+  
+    .intelli-report-image {
+      max-width: 50%;
+      max-height: 200px; /* Adjust this value as needed */
+      height: auto;
+    }
+  
+    .print-button {
+      display: none;
+    }
+  }
+  
