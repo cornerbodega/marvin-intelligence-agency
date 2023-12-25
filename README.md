@@ -32,8 +32,6 @@ cd marvin-intelligence-agency
 
 Navigate to the client and server directories in separate terminal windows and run:
 
-`bash
-
 ### In the /client directory
 
 npm install
