@@ -91,5 +91,4 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 
 ## Acknowledgements
 
-Special thanks to OpenAI for the inspiration and resources that made this project possible.
-[Any other acknowledgments or credits you would like to include.]
+Special thanks to OpenAI, Vercel, Google, and Supabase for the inspiration and resources that made this project possible.
