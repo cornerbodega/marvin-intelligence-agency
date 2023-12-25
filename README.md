@@ -25,8 +25,7 @@ Ensure you have the following installed:
 ## [1/4] Installation: Clone Repo
 
 `git clone https://github.com/your-username/marvin-intelligence-agency.git
-cd marvin-intelligence-agency
-`
+cd marvin-intelligence-agency`
 
 ## [2/4] Installation: Install Dependencies
 
@@ -34,11 +33,11 @@ Navigate to the client and server directories in separate terminal windows and r
 
 ### In the /client directory
 
-npm install
+`npm install`
 
 ### In the /server directory
 
-npm install
+`npm install`
 
 ## [3/4] Installation: Database Setup
 
