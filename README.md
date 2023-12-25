@@ -74,13 +74,13 @@ To run the application locally:
 
 ### Start the client
 
-cd client
-yarn dev
+`cd client`
+`yarn dev`
 
 #### In another terminal, start the server
 
-cd server
-node index.html
+`cd server`
+`node index.html`
 
 ## Contributing
 
