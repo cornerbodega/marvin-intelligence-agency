@@ -35,14 +35,13 @@ Navigate to the client and server directories in separate terminal windows and r
 
 `bash
 
-# In the /client directory
+### In the /client directory
 
 npm install
 
-# In the /server directory
+### In the /server directory
 
 npm install
-`
 
 ## [3/4] Installation: Database Setup
 
@@ -76,18 +75,15 @@ Fill out the environment variables in the .env files for both client and server.
 
 To run the application locally:
 
-`bash
-
 # Start the client
 
 cd client
-npm start
+yarn dev
 
 # In another terminal, start the server
 
 cd server
-npm start
-`
+node index.html
 
 ## Contributing
 
