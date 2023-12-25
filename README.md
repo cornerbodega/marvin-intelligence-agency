@@ -22,12 +22,12 @@ Ensure you have the following installed:
 - npm or yarn
 - Git
 
-## [1/4] Installation: Clone Repo
+## Installation Step 1 of 4: Clone Repo
 
 `git clone https://github.com/your-username/marvin-intelligence-agency.git
 cd marvin-intelligence-agency`
 
-## [2/4] Installation: Install Dependencies
+## Installation Step 2 of 4: Install Dependencies
 
 Navigate to the client and server directories in separate terminal windows and run:
 
@@ -39,18 +39,18 @@ Navigate to the client and server directories in separate terminal windows and r
 
 `npm install`
 
-## [3/4] Installation: Database Setup
+## Installation Step 3 of 4: Database Setup
 
-### [3.1] Create a New Project in Supabase
+### Create a New Project in Supabase
 
 - Go to Supabase and create a new project.
 - Note down the Supabase URL and anon key.
 
-### [3.2] Paste the Table Setup SQL into Supabase
+### Paste the Table Setup SQL into Supabase
 
 - Use the provided SQL script in /sql/setup.sql to set up your database tables in Supabase.
 
-## [4/4] Installation: Configure API Keys
+## Installation Step 4 of 4: Configure API Keys
 
 Fill out the environment variables in the .env files for both client and server. Remove .example from the file names.
 
