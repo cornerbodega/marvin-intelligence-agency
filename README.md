@@ -72,12 +72,12 @@ Fill out the environment variables in the .env files for both client and server.
 
 To run the application locally:
 
-# Start the client
+### Start the client
 
 cd client
 yarn dev
 
-# In another terminal, start the server
+#### In another terminal, start the server
 
 cd server
 node index.html
