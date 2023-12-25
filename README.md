@@ -2,6 +2,10 @@
 
 Marvin Intelligence Agency is an innovative web application designed to enhance interactions with AI for building complex documents, personalizing experiences, and creating expansive knowledge bases. Inspired by the capabilities of GPT models, this project offers unique approaches to managing AI-generated content and streamlining user experiences.
 
+# Live Demo
+
+[Marvin.Technology](https://marvin.technology)
+
 ## Key Features
 
 - **Dynamic Report Generation**: Create detailed reports on various topics with AI interaction. Highlight text to generate linked, contextual reports.
