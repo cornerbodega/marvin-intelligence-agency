@@ -28,8 +28,8 @@ Ensure you have the following installed:
 
 ## Installation Step 1 of 4: Clone Repo
 
-`git clone https://github.com/your-username/marvin-intelligence-agency.git
-cd marvin-intelligence-agency`
+`git clone https://github.com/your-username/marvin-intelligence-agency.git`
+`cd marvin-intelligence-agency`
 
 ## Installation Step 2 of 4: Install Dependencies
 
@@ -52,7 +52,7 @@ Navigate to the client and server directories in separate terminal windows and r
 
 ### Paste the Table Setup SQL into Supabase
 
-- Use the provided SQL script in /sql/setup.sql to set up your database tables in Supabase.
+- Use the provided SQL script in /database/intelligence-supabase-schema.sql.sql to set up your database tables in Supabase.
 
 ## Installation Step 4 of 4: Configure API Keys
 
